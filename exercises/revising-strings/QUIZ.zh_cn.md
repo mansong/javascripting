@@ -18,7 +18,7 @@ console.log(example);
 
 ## 挑战：
 
-创建一个名为 `revising-strings.js` 的文件。
+请看右边的文件。
 
 定义一个名为 `pizza` 的变量，并且让它引用字符串 `pizza is alright`。
 
@@ -28,6 +28,8 @@ console.log(example);
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify revising-strings.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

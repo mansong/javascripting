@@ -34,7 +34,7 @@
 
 ## 挑战：
 
-创建一个名为 `accessing-array-values.js` 的文件。
+请看右边的文件。
 
 在文件中定义一个数组 `food`：
 ```js
@@ -45,6 +45,8 @@ var food = ['apple', 'pizza', 'pear'];
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify accessing-array-values.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

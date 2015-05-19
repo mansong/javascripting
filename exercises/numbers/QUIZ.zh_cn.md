@@ -6,7 +6,7 @@
 
 ## 挑战：
 
-创建名为 `numbers.js` 的文件。
+请看右边的文件。
 
 在文件中定义一个名为 `example` 的变量并让它引用整数 `123456789`。
 
@@ -14,6 +14,8 @@
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify numbers.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

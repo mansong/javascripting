@@ -20,7 +20,7 @@ example.length
 
 ## 挑战：
 
-创建一个名为 `string-length.js` 的文件。
+请看右边的文件。
 
 在文件中，创建名为 `example` 的变量。
 
@@ -30,6 +30,8 @@ example.length
 
 **运行下面的命令来检查你的程序是否正确：**
 
-`javascripting verify string-length.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

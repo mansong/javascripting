@@ -10,7 +10,7 @@
 
 ## 挑战：
 
-创建一个名为 `rounding-numbers.js` 的文件。
+请看右边的文件。
 
 在文件中定义名为 `roundUp` 的变量，并赋值浮点数 `1.5`。
 
@@ -28,6 +28,8 @@ Math.round(0.5);
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify rounding-numbers.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

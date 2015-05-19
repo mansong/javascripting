@@ -24,7 +24,7 @@ greetings[1];
 
 ## 挑战：
 
-创建一个名为 `looping-through-arrays.js` 的文件。
+请看右边的文件。
 
 在文件中定义一个变量 `pets`，使它引用下面的数组：
 
@@ -44,6 +44,8 @@ pets[i] = pets[i] + 's';
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify looping-through-arrays.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

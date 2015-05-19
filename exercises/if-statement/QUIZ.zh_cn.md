@@ -20,7 +20,7 @@ if (n > 1) {
 
 ## 挑战：
 
-创建一个名为 `if-statement.js` 的文件。
+请看右边的文件。
 
 在文件中，声明一个名为 `fruit` 的变量。
 
@@ -30,6 +30,8 @@ if (n > 1) {
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify if-statement.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

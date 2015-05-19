@@ -28,7 +28,7 @@ example['pizza'];
 
 ## 挑战：
 
-创建名为 `object-properties.js` 的文件。
+请看右边的文件。
 
 在文件中，像这样定义名为 `food` 的变量：
 
@@ -42,6 +42,8 @@ var food = {
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify object-properties.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

@@ -20,7 +20,7 @@ for (var i = 0; i < 10; i++) {
 
 ## 挑战：
 
-创建一个名为 `for-loop.js` 的文件。
+请看右边的文件。
 
 在文件中定义一个名为 `total` 的变量，让它等于 `0`。
 
@@ -38,6 +38,8 @@ For 循环结束后，使用 `console.log()` 打印 `total` 变量到终端。
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify for-loop.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

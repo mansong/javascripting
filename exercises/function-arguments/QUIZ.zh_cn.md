@@ -22,7 +22,7 @@ example('hello', 'world');
 
 ## 挑战：
 
-创建名为 `function-arguments.js` 的文件。
+请看右边的文件。
 
 在文件中，定义一个名为 `math` 的函数，它接受三个参数。你需要知道的是，参数的名字仅仅是用来引用它们的而已。
 
@@ -34,6 +34,8 @@ example('hello', 'world');
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify function-arguments.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

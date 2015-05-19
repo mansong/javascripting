@@ -13,7 +13,7 @@ n = n.toString();
 
 ## 挑战：
 
-创建名为 `number-to-string.js` 的文件。
+请看右边的文件。
 
 在文件中定义名为 `n` 的变量，并赋值 `128`；
 
@@ -23,6 +23,8 @@ n = n.toString();
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify number-to-string.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

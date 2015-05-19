@@ -17,7 +17,7 @@
 
 ## 挑战：
 
-创建一个名为 `strings.js` 的文件。
+请看右边的文件。
 
 在文件中像这样创建一个名为 `someString` 的变量：
 
@@ -29,6 +29,8 @@ var someString = 'this is a string';
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify strings.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

@@ -22,7 +22,7 @@ var filtered = pets.filter(function (pet) {
 
 ## 挑战：
 
-创建名为 `array-filtering.js` 的文件。
+请看右边的文件。
 
 在文件中，定义一个名为 `numbers` 的变量，并赋予下面的值：
 
@@ -44,6 +44,8 @@ function evenNumbers (number) {
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify array-filtering.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

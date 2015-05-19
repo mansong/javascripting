@@ -22,7 +22,7 @@ example(5)
 
 ## 挑战：
 
-创建一个名为 `functions.js` 的文件。
+请看右边的文件。
 
 在文件中，定义一个名为 `eat` 的函数，其参数名为 `food`，类型为 `string`。
 
@@ -36,6 +36,8 @@ return food + ' tasted really good.';
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify functions.js`
+`node program.js`
+
+或点击｀提交答案｀
 
 ---

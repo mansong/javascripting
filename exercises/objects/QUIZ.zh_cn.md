@@ -15,7 +15,7 @@ var foodPreferences = {
 
 ## 挑战：
 
-创建名为 `objects.js` 的文件。
+请看右边的文件。
 
 在文件里，像这样定义一个变量 `pizza`：
 
@@ -31,7 +31,8 @@ var pizza = {
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify objects.js`
+`node program.js`
 
+或点击｀提交答案｀
 
 ---

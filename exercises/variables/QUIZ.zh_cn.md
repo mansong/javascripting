@@ -25,7 +25,7 @@ var example = 'some string';
 
 ## 挑战：
 
-创建一个名为 `variables.js` 的文件。
+请看右边的文件。
 
 在文件中声明一个名为 `example` 的变量。
 
@@ -35,5 +35,8 @@ var example = 'some string';
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify variables.js`
+`node program.js`
+
+或点击｀提交答案｀
+
 ---
