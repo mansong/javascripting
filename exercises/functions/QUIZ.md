@@ -1,7 +1,4 @@
 ---
-
-# FUNCTIONS
-
 A function is a block of code that takes input, processes that input, and then produces output.
 
 Here is an example:
@@ -22,9 +19,7 @@ The above example assumes that the `example` function will take a number as an a
 
 ## The challenge:
 
-Create a file named `functions.js`.
-
-In that file, define a function named `eat` that takes an argument named `food`  
+In the file, define a function named `eat` that takes an argument named `food`  
 that is expected to be a string.
 
 Inside the function return the `food` argument like this:
@@ -37,6 +32,8 @@ Inside of the parentheses of `console.log()`, call the `eat()` function with the
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify functions.js`
+`node program.js`
+
+or by pressing the Submit button.
 
 ---

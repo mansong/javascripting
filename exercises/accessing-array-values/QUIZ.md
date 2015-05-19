@@ -1,7 +1,4 @@
 ---
-
-# ACCESSING ARRAY VALUES
-
 Array elements can be accessed through index number.
 
 Index number starts from zero to array's property length minus one.
@@ -46,6 +43,7 @@ Use `console.log()` to print the `second` value of array to the terminal.
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify accessing-array-values.js`
+`node program.js`
 
+or pressing the Submit button.
 ---

@@ -1,7 +1,4 @@
 ---
-
-# IF STATEMENT
-
 Conditional statements are used to alter the control flow of a program, based on a specified boolean condition.
 
 A conditional statement looks like this:
@@ -20,9 +17,7 @@ The else block is optional and contains the code that will be executed if the st
 
 ## The challenge:
 
-Create a file named `if-statement.js`.
-
-In that file, declare a variable named `fruit`.
+In the file, declare a variable named `fruit`.
 
 Make the `fruit` variable reference the value **orange** with the type of **String**.
 
@@ -31,6 +26,8 @@ Otherwise, print "**The fruit name has five characters or less.**"
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify if-statement.js`
+`node program.js`
+
+or by pressing the Submit button.
 
 ---

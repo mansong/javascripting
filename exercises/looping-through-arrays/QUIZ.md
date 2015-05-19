@@ -1,7 +1,4 @@
 ---
-
-# LOOPING THROUGH ARRAYS
-
 For this challenge we will use a **for loop** to access and manipulate a list of values in an array.
 
 Accessing array values can be done using an integer.
@@ -24,9 +21,7 @@ So inside a **for loop** we would use the `i` variable inside the square bracket
 
 ## The challenge:
 
-Create a file named `looping-through-arrays.js`.
-
-In that file, define a variable named `pets` that references this array:
+In the file, define a variable named `pets` that references this array:
 
 ```js
 ['cat', 'dog', 'rat'];
@@ -44,6 +39,8 @@ After the for loop, use `console.log()` to print the `pets` array to the termina
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify looping-through-arrays.js`
+`node program.js`
+
+or by pressing the Submit button.
 
 ---

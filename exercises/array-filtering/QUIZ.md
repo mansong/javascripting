@@ -1,7 +1,4 @@
 ---
-
-# ARRAY FILTERING
-
 There are many ways to manipulate arrays.
 
 One common task is filtering arrays to only contain certain values.
@@ -44,6 +41,8 @@ Use `console.log()` to print the `filtered` array to the terminal.
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify array-filtering.js`
+`node program.js`
+
+or by pressing the Submit button.
 
 ---

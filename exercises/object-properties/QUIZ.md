@@ -1,7 +1,4 @@
 ---
-
-# OBJECT PROPERTIES
-
 You can access and manipulate object properties –– the keys and values that an object contains –– using a method very similar to arrays.
 
 Here's an example using **square brackets**:
@@ -28,9 +25,7 @@ The two lines of code above will both return `yummy`.
 
 ## The challenge:
 
-Create a file named `object-properties.js`.
-
-In that file, define a variable named `food` like this:
+In the file, define a variable named `food` like this:
 
 ```js
 var food = {
@@ -42,6 +37,8 @@ Use `console.log()` to print the `types` property of the `food` object to the te
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify object-properties.js`
+`node program.js`
+
+or by pressing the Submit button.
 
 ---
