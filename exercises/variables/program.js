@@ -1,4 +1,4 @@
 // enter your code below
 
-var example="Hello, World!";
+var example="some string";
 console.log(example);
